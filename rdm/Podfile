@@ -1,3 +1,0 @@
-platform:ios
-pod 'ASIHTTPRequest'
-pod 'Reachability', '~> 3.0.0'
