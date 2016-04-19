@@ -1,0 +1,10 @@
+PODS:
+  - Bugly (2.1)
+
+DEPENDENCIES:
+  - Bugly (~> 2.1)
+
+SPEC CHECKSUMS:
+  Bugly: bea72755cea96604658cc480b4efe85576c8aa2c
+
+COCOAPODS: 0.39.0
