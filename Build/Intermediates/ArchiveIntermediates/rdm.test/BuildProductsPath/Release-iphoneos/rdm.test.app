@@ -1,1 +1,0 @@
-/Users/pudgeli/Documents/GitHub/cocoaPodTest/Build/Intermediates/ArchiveIntermediates/rdm.test/InstallationBuildProductsLocation/Applications/rdm.test.app

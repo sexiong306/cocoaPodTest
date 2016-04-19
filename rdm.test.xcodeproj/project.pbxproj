@@ -488,13 +488,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_ARC = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ting li (B29VSV774R)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ting li (7EJVVTDYP9)";
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = rdm.test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.rdm.test123;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f15a2418-f538-48df-8782-bce79b52156c";
+				PROVISIONING_PROFILE = "5fff6dc2-f29d-425e-9589-3e90b19e5d31";
 			};
 			name = Debug;
 		};
@@ -504,13 +504,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_OBJC_ARC = NO;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: ting li (B29VSV774R)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: ting li (7EJVVTDYP9)";
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = rdm.test/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tencent.rdm.test123;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f15a2418-f538-48df-8782-bce79b52156c";
+				PROVISIONING_PROFILE = "5fff6dc2-f29d-425e-9589-3e90b19e5d31";
 			};
 			name = Release;
 		};
