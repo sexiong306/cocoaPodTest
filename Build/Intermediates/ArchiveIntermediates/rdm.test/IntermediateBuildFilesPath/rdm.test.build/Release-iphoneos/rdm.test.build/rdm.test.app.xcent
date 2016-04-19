@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>X96S8D333M.com.webank.wepowernew</string>
-	<key>aps-environment</key>
-	<string>production</string>
+	<string>B29VSV774R.com.tencent.rdm.test</string>
 	<key>com.apple.developer.team-identifier</key>
-	<string>X96S8D333M</string>
+	<string>B29VSV774R</string>
 	<key>get-task-allow</key>
-	<false/>
+	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>X96S8D333M.com.webank.wepowernew</string>
+		<string>B29VSV774R.com.tencent.rdm.test</string>
 	</array>
 </dict>
 </plist>

@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pudgeli/Documents/TestProj/rdm.test/rdm.test/ViewController.m \
-  /Users/pudgeli/Documents/TestProj/rdm.test/rdm.test/ViewController.h
+  /Users/pudgeli/Documents/GitHub/cocoaPodTest/rdm.test/ViewController.m \
+  /Users/pudgeli/Documents/GitHub/cocoaPodTest/rdm.test/ViewController.h

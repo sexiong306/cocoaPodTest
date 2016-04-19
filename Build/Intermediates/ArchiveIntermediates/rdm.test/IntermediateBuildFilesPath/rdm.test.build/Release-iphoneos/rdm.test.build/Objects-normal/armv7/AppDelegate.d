@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/pudgeli/Documents/TestProj/rdm.test/rdm.test/AppDelegate.m \
-  /Users/pudgeli/Documents/TestProj/rdm.test/rdm.test/AppDelegate.h
+  /Users/pudgeli/Documents/GitHub/cocoaPodTest/rdm.test/AppDelegate.m \
+  /Users/pudgeli/Documents/GitHub/cocoaPodTest/rdm.test/AppDelegate.h
